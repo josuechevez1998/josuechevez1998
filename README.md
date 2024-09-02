@@ -13,8 +13,8 @@
 
 ### Frontend:
 - **🌈 Tailwind CSS**: Diseño ágil y moderno con un enfoque utilitario para un futuro brillante.
-- **🛠️ Angular (Básico)**: Desarrollando aplicaciones web de una sola página con interactividad avanzada.
-- **🛠️ Vue (Básico)**: Desarrollando aplicaciones web de una sola página con interactividad avanzada.
+- **🛠️ Angular**: Desarrollando aplicaciones web de una sola página con interactividad avanzada.
+- **🛠️ Vue**: Desarrollando aplicaciones web de una sola página con interactividad avanzada.
 - **🔮 Livewire**: Creación de interfaces dinámicas y reactivas sin abandonar el ecosistema de Laravel.
 
 ### Bases de Datos:
