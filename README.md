@@ -51,4 +51,4 @@
 
 ## 📫 Contacto
 
-- **✉️ Correo Electrónico**: [josuechevez974@gmail.com](mailto:josuechevez974@gmail.com)
+- **✉️ Correo Electrónico**: [josuechevez974@gmail.com](mailto:josuechevez977@gmail.com)
